@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon180&label=Profile%20views&color=0e75b6&style=flat" alt="sumon180" /> </p>
 
-- 💬 Ask me about **React.js, Node.js, Javascript, CSS, HTML etc**
+- 💬 Ask me about **Typescript, React.js, Node.js, Next.js, Javascript, CSS, HTML etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
